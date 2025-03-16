@@ -76,7 +76,7 @@ pip install youtube_comment_downloader
 
 ## 🎉 作者
 
-開發者：[@MrK178](https://github.com/MrK178)
+開發者：[@MrK178](https://github.com/MrK178)  
 聯絡方式：[Threads @k.aicash](https://www.threads.net/@k.aicash)
 
 🚀 如果你覺得這個工具有幫助，請記得點個 ⭐ **Star** 支持這個專案！
